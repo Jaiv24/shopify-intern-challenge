@@ -36,10 +36,12 @@ python mange.py runserver
  - Now press `Create` button to create a new movie review. 
  - Now, add movie `name, Picture (Image Url), Rating and Notes`. Note by adding picture you just need to add the Image URL so just find an online image url and paste it there.
  - A little trick to copy Image URL: Find your image from google images ➡ Right click ➡ Copy Image Address.   
-    ![Create Movies](demoImages/createMovie.JPG)
+    ![Create Movies](demoImages/Create-Movie.JPG)
  - By pressing the `Create new movie` button you'll see that your movie has been added, and also give a small notification pop-up.
-    ![Movie added](demoImages/notificationAndMovieAdded.JPG)
+    ![Movie added](demoImages/NotificationAndMovieAdded.JPG)
  - You can also hover and view your details.
     ![View Details](demoImages/HoverAndViewDetails.JPG)
  - By pressing `View Details` button you can `edit` or `delete` your movie details. 
-    ![Edit Delete](demoImages/editOption.JPG)
+    ![Edit Delete](demoImages/ViewOption.JPG)
+ - Search any keyword or movie name it will filter and display related results.  
+    ![Search](demoImages/search.JPG)
