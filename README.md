@@ -1,5 +1,5 @@
 # Movie review Application
-This is a project for shopify developer intern challenge. Fall-2021
+This is a project for shopify developer intern challenge. Fall 2021
 
 ### [Live Preview](https://herokudjangoapp--1.herokuapp.com/)
 ## Contents
